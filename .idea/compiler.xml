@@ -9,8 +9,5 @@
         <module name="LeetCodeJavaSolutions" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="LeetCodeJavaSolutions" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
