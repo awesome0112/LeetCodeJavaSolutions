@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdbc80df-95ed-4930-9e88-e6cbcb33b480" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeJavaSolutions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Medium/CountTheNumberOfFairPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Medium/CountTheNumberOfFairPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,8 @@
       <workItem from="1730911788638" duration="969000" />
       <workItem from="1730972063925" duration="610000" />
       <workItem from="1730998829240" duration="601000" />
-      <workItem from="1731521219460" duration="4156000" />
+      <workItem from="1731521219460" duration="4701000" />
+      <workItem from="1731604674054" duration="1433000" />
     </task>
     <servers />
   </component>
@@ -103,18 +102,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Medium/CountTheNumberOfFairPairs.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Medium/CountTheNumberOfFairPairs.java</url>
-          <line>28</line>
+          <line>12</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Medium/CountTheNumberOfFairPairs.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
